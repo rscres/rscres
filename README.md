@@ -35,14 +35,16 @@ My name Renato and I'm currently studying software engineering at [42 São Paulo
 | [libft](https://github.com/rscres/42Libft)         | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
 | [get_next_line](https://github.com/rscres/42GNL)   | [![General badge](https://img.shields.io/badge/Finished-112/100-<COLOR>.svg)](https://shields.io/) |
 | [ft_printf](https://github.com/rscres/42ft_printf) | [![General badge](https://img.shields.io/badge/Finished-110/100-<COLOR>.svg)](https://shields.io/) |
-| [Fdf](https://github.com/rscres/42FdF)             | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
+| [FdF](https://github.com/rscres/42FdF)             | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
 | [minitalk](https://github.com/rscres/42minitalk)   | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
 
 ### - Phase 2
 
-| Project                                            | Status                                                                                             |
-| -------------------------------------------------- |:--------------------------------------------------------------------------------------------------:|
-| [push_swap](https://github.com/rscres/42push_swap) | in progress...                                                                                     |
+| Project                                                  | Status                                                                                             |
+| -----------------------------------------------------    |:--------------------------------------------------------------------------------------------------:|
+| [push_swap](https://github.com/rscres/42push_swap)       | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
+| [minishell](https://github.com/rscres/42minishell)       | in progress...                                                                                     |
+| [philosophers](https://github.com/rscres/42philosophers) | in progress...                                                                                     |
 
 ## LANGUAGES AND TOOLS
 
