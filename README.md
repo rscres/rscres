@@ -43,7 +43,7 @@ My name Renato and I'm currently studying software engineering at [42 São Paulo
 | Project                                                  | Status                                                                                             |
 | -----------------------------------------------------    |:--------------------------------------------------------------------------------------------------:|
 | [push_swap](https://github.com/rscres/42push_swap)       | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
-| [minishell](https://github.com/rscres/my_shell)          | [![General badge](https://img.shields.io/badge/Finished-97/100-<COLOR>.svg)](https://shields.io/)  |
+| [minishell](https://github.com/rscres/42minishell)       | [![General badge](https://img.shields.io/badge/Finished-97/100-<COLOR>.svg)](https://shields.io/)  |
 | [philosophers](https://github.com/rscres/42philosophers) | [![General badge](https://img.shields.io/badge/Finished-100/100-<COLOR>.svg)](https://shields.io/) |
 | [miniRT](https://github.com/bonissanti/42SP_11_MiniRT)   | in progress...                                                                                     |
 
