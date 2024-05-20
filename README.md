@@ -37,6 +37,7 @@ You can see some of my stuff on my [portfolio website](https://rscres.github.io/
 | [libft](https://github.com/rscres/42Libft)         | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
 | [get_next_line](https://github.com/rscres/42GNL)   | [![General badge](https://img.shields.io/badge/Finished-112/100-<COLOR>.svg)](https://shields.io/) |
 | [ft_printf](https://github.com/rscres/42ft_printf) | [![General badge](https://img.shields.io/badge/Finished-110/100-<COLOR>.svg)](https://shields.io/) |
+| Born2beroot                                        | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
 | [FdF](https://github.com/rscres/42FdF)             | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
 | [minitalk](https://github.com/rscres/42minitalk)   | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
 
@@ -47,6 +48,7 @@ You can see some of my stuff on my [portfolio website](https://rscres.github.io/
 | [push_swap](https://github.com/rscres/42push_swap)       | [![General badge](https://img.shields.io/badge/Finished-125/100-<COLOR>.svg)](https://shields.io/) |
 | [minishell](https://github.com/rscres/42minishell)       | [![General badge](https://img.shields.io/badge/Finished-97/100-<COLOR>.svg)](https://shields.io/)  |
 | [philosophers](https://github.com/rscres/42philosophers) | [![General badge](https://img.shields.io/badge/Finished-100/100-<COLOR>.svg)](https://shields.io/) |
+| Netpractice                                              | [![General badge](https://img.shields.io/badge/Finished-100/100-<COLOR>.svg)](https://shields.io/) |
 | [miniRT](https://github.com/bonissanti/42SP_11_MiniRT)   | [![General badge](https://img.shields.io/badge/Finished-105/100-<COLOR>.svg)](https://shields.io/) |
 
 ### - Phase 3
