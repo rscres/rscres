@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 My name Renato and I'm currently studying software engineering at [42 São Paulo](https://www.42sp.org.br/) and webdev focused on front-end on the side with [The Odin Project](https://www.theodinproject.com/).
 
-You can see some of my stuff on my [portfolio website](https://rscres.github.io/portfolio-website/)
-
 ### Contact
 
 <div> 
